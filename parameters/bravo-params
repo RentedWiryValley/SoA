@@ -1,0 +1,7 @@
+bravo-code-encrypter parameters:
+
+Enter MHKDF memory size (MB): 4096
+Enter MHKDF rounds: 4
+Enter PBKDF iterations: 1000000000
+Enter Alpha rounds: 524288
+
