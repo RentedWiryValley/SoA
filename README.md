@@ -8,6 +8,8 @@ SoA in this context refers to a text of 1023 characters that briefly outlines th
 
 SoA is custom-encrypted. This package provides everything needed to decrypt it, except the passphrases and alike.
 
+The knowledge in SoA will be disclosed if [the conditions](DisclosureConditions.md) are met. Otherwise, decryption information will be disclosed with the goal that SoA can be decrypted after around 2070.
+
 ### File descriptions
 
 #### *cipherdata* directory:
